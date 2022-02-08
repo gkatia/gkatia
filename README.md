@@ -41,6 +41,6 @@ I'm a system engineer who loves programming, solving problems and learning about
 <p align="center">
 <a href="www.linkedin.com/in/ekaterinagbondareva"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ekaterina%20Bondareva-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:g.ekaterina16@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Ekaterina%20Bondareva-blue?style=flat-square&logo=gmail"></a>
- 
+<a href="www.linkedin.com/in/ekaterinagbondareva"><img src=https://img.shields.io/badge/LinkedIn-Ekaterina%20Bondareva-blue?style=flat-square&logo=linkedin">
 </p>
 
