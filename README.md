@@ -41,5 +41,7 @@ I'm a system engineer who loves programming, solving problems and learning about
 <p align="center">
 <a href="www.linkedin.com/in/ekaterinagbondareva"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:g.ekaterina16@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+ <a href="www.linkedin.com/in/ekaterinagbondareva" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
+
 </p>
 
